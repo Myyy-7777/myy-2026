@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Untuk Kamu — 2026</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #0b1c2d, #122c44, #1c3b5a);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Segoe UI', sans-serif;
+      color: #eaf2ff;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.08);
+      backdrop-filter: blur(12px);
+      border-radius: 20px;
+      padding: 30px 25px;
+      max-width: 700px;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+      animation: fadeIn 1.5s ease;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: 500;
+      letter-spacing: 1px;
+      margin-bottom: 20px;
+      color: #b9dcff;
+    }
+
+    p {
+      line-height: 1.8;
+      font-size: 16px;
+      color: #e6efff;
+      margin-bottom: 15px;
+      white-space: pre-line;
+    }
+
+    .closing {
+      margin-top: 20px;
+      text-align: center;
+      font-style: italic;
+      color: #cfe6ff;
+      opacity: 0.9;
+    }
+
+    .code {
+      text-align: center;
+      margin-top: 25px;
+      font-size: 18px;
+      letter-spacing: 3px;
+      color: #9ecbff;
+      opacity: 0.85;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 600px) {
+      .card {
+        margin: 20px;
+        padding: 25px 20px;
+      }
+      p {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>Hai, Myy 🤍</h1>
+
+    <p>
+hai myy 🙏🏻  
+berelaan ganggu waktunya,  
+kd kerasaan 2025 hndk lewat dh lah..  
+dan 2026 akan segera tiba.
+
+tahun ini menurutku tahun yang agak berat bagiku,
+
+dan untuk 2026 ak berjanji pda diriku sendiri bahwa tahun ini aku benar" fokus, bertumbuh dan berusaha mengarahkan hidupku ke jalan yang benar :)
+
+dan semoga semua harapan yg km impikan segera tercapai di 2026 ya  
+teruslah tumbuh, terus maju dan raih ap yg km inginkan  
+ak akn mnjdi saksi atas segala proses km yg akn dtng,  
+dan ketika km merasa lelah.. ingat ad seseorng yg selalu percaya pd km dan selalu bangga pd setiap langkah km, keberhasilan dan bahkan kegagalan.
+
+terimakasih telah menjadi salah satu part terbaikku di 2025,  
+maaf kesalahan" ku sebelumnya 🙏🏻
+    </p>
+
+    <div class="closing">
+      semoga 2026 memperlakukan km dengan lembut,<br>
+      dan jika suatu hari km butuh tempat singgah,<br>
+      semoga aku masih boleh jadi salah satunya.
+    </div>
+
+    <div class="code">2201</div>
+  </div>
+
+</body>
+</html>
